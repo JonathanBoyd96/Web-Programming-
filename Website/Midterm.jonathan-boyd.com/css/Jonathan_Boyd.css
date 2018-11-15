@@ -1,0 +1,121 @@
+body {
+	color: black;
+	margin: 0;
+	width: 100%;
+	background-color: #aaa;
+}
+
+h1 {text-align: center; background-color: #grey; color: black;}
+
+h2 {text-align: center; background-color: #grey; color: blue;}
+
+.container{
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.page-wrap{
+	padding: 20px;
+	float: left;
+	width: 100%;
+}
+
+#header{
+	float: left;
+	width: 100%;
+	background: #aaa;
+	border-radius: 1px;
+}
+
+#form-area {
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+}
+
+#table-area {
+	float: left;
+	width: 100%;
+}
+
+.table-info{
+	margin: 0 auto;
+	text-align: center;
+	background-color: grey;
+	color: white;
+	border-radius: 3px;
+	border-collapse: collapse;
+	width: 75%;
+}
+
+td {
+	padding: 10px;
+}
+
+.header {
+	background-color: black;
+	text-align: center;
+}
+
+.header h1{
+	float: left;
+	width: 100%;
+	padding-bottom: 5px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.header h2{
+	float: left;
+	width: 100%;
+	padding-bottom: 5px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.header p {
+	float: left;
+	width: 100%;
+}
+
+#first-name {
+	padding-bottom: 20px;
+	font-size: 15px;
+}
+
+#last-name {
+	padding-bottom: 20px;
+	font-size: 15px;
+}
+
+#work-select {
+	font-size: 14px;
+	padding-bottom: 18px;
+}
+
+#hourly-pay {
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+
+#age-container{
+	padding-bottom: 20px;
+}
+
+label {
+	display: block;
+	padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+

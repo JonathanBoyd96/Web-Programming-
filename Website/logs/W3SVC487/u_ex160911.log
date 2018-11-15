@@ -1,0 +1,58 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 03:06:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 03:06:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 139.59.149.57 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:43.0)+Gecko/20100101+Firefox/43.0 - https://freevpn.ninja/ jonathan-boyd.com 200 0 64 0 175 11093
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 07:59:19
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 07:59:19 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 23.20.134.241 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:30.0)+Gecko/20100101+Firefox/30.0 - - jonathan-boyd.com 200 0 0 1448 287 9828
+2016-09-11 08:10:42 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 166.78.181.113 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.71+Safari/534.24 - - jonathan-boyd.com 200 0 0 1008 292 6125
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 09:11:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 09:11:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 198.101.238.203 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.71+Safari/534.24 - - www.jonathan-boyd.com 200 0 0 1008 296 7187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 10:18:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 10:18:31 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.67 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - jonathan-boyd.com 404 0 2 1329 227 3531
+2016-09-11 10:18:39 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - jonathan-boyd.com 200 0 0 989 294 2000
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 12:22:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 12:22:40 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.162 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.jonathan-boyd.com 404 0 2 1329 231 2890
+2016-09-11 12:23:17 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.jonathan-boyd.com 200 0 0 989 298 1468
+2016-09-11 12:23:20 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 66.249.79.162 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.jonathan-boyd.com/ www.jonathan-boyd.com 200 0 0 786 335 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 12:38:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 12:38:35 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - jonathan-boyd.com 200 0 0 989 294 5234
+2016-09-11 12:38:37 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 66.249.79.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://jonathan-boyd.com/ jonathan-boyd.com 200 0 0 786 327 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 14:27:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 14:27:12 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.162 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.jonathan-boyd.com 200 0 0 989 298 9281
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 17:15:21
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 17:15:20 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.jonathan-boyd.com 200 0 0 989 298 9375
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 21:18:33
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 21:18:32 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 95.24.43.150 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:25.0)+Gecko/20100101+Firefox/25.0+YB/7.7.1 - http://yandex.ru/clck/jsredir?from=yandex.ru%3Bsearch%3Bweb%3B%3B&text=&etext=1175.vF6CucQHOmmJAJ-HxQanha_aJgJ3WcKCe0_bpeMMwkiL8DjjpSCmNaGJRVkBp-5H.f06fa844e2b7d823353d936e67ad0b282ab87b8c&uuid=&state=_BLhILn4SxNIvvL0W45KSic66uCIg23qh8iRG98qeIXmeppkgUc0YFUVNhHyyhJgRFg5yeLMIWU&data=UlNrNmk5WktYejR0eWJFYk1LdmtxdkdMcmtaUFduTlgzMFRyZkZsemh2d1ZEdXg4bm1qN0JzTFVvcEMyOExBYW5HcHpZWXU0cmY2bHY3UHNNakVJVzlQV0REZDhkb1Q4RUlBZ2VPLV9xRU0&b64e=2&sign=b0359718e4a4a05090f171884b07581e&keyno=0&cst=AiuY0DBWFJ7IXge4WdYJQaYgAYq7Jarr9nasdnJ04z5lHyTWiRR8qYTQV28OAMrD9fUF8TQMwq5LNm0IFK26PSiYo6FNo23GVUh_95RMNUTUauQQTQMtJM1KXeGEDHKT_wicDC-n27NfDELDGfE0OEObge4S_E_l&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kp5uQozpMtKCXZIHNQeCnAdhAE4e6mqi77Swioe-9HEB01uN4bdzshEJb8AA-9vB3gaf_WFHbkNA6BRsoyKHQagUQZYj1cLNxy&l10n=ru&cts=1473628523968&mc=4.5971990558 jonathan-boyd.com 200 0 0 1008 1128 3843
+2016-09-11 21:18:34 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 95.24.43.150 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:25.0)+Gecko/20100101+Firefox/25.0+YB/7.7.1 - http://jonathan-boyd.com/ jonathan-boyd.com 200 0 0 805 367 203
+2016-09-11 21:18:36 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /Ladybug.jpg - 80 - 95.24.43.150 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:25.0)+Gecko/20100101+Firefox/25.0+YB/7.7.1 - http://jonathan-boyd.com/ jonathan-boyd.com 200 0 0 493479 364 2265
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-09-11 22:47:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-09-11 22:47:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.67 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - jonathan-boyd.com 404 0 2 1329 227 7380
+2016-09-11 22:47:13 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.125 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - jonathan-boyd.com 200 0 0 989 294 3406

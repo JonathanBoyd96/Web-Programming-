@@ -1,0 +1,90 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-06 00:11:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-06 00:11:25 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.184.77.140 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1413 385 10859
+2016-11-06 00:11:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 93
+2016-11-06 00:11:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 93
+2016-11-06 00:11:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 93
+2016-11-06 00:11:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 93
+2016-11-06 00:11:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 93
+2016-11-06 00:11:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 78
+2016-11-06 00:11:27 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 93
+2016-11-06 00:11:27 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 93
+2016-11-06 00:11:27 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 78
+2016-11-06 00:11:27 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-06 02:31:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-06 02:31:52 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.184.77.140 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1413 385 8328
+2016-11-06 02:31:52 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 109
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 109
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 109
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 109
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 109
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 93
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 93
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 93
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 93
+2016-11-06 02:31:53 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 173.184.77.140 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-06 16:32:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-06 16:32:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 174.218.13.50 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1413 385 7468
+2016-11-06 16:32:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-11-06 16:32:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 46
+2016-11-06 16:32:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 63
+2016-11-06 16:32:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 62
+2016-11-06 16:32:30 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62
+2016-11-06 16:32:30 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-11-06 16:32:30 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 46
+2016-11-06 16:32:30 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 62
+2016-11-06 16:32:30 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 62
+2016-11-06 16:32:30 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-06 17:44:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-06 17:44:58 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 174.218.13.50 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1413 385 5250
+2016-11-06 17:45:07 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-11-06 17:45:07 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 78
+2016-11-06 17:45:07 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 62
+2016-11-06 17:45:07 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 62
+2016-11-06 17:45:07 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62
+2016-11-06 17:45:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-11-06 17:45:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 62
+2016-11-06 17:45:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 62
+2016-11-06 17:45:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 62
+2016-11-06 17:45:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.218.13.50 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-06 20:05:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-06 20:05:50 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 174.218.139.71 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1413 385 6031
+2016-11-06 20:05:50 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-11-06 20:05:50 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 46
+2016-11-06 20:05:50 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 46
+2016-11-06 20:05:50 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 62
+2016-11-06 20:05:51 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62
+2016-11-06 20:05:51 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 46
+2016-11-06 20:05:51 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 46
+2016-11-06 20:05:51 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 62
+2016-11-06 20:05:51 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 62
+2016-11-06 20:05:51 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.218.139.71 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-06 23:58:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-06 23:58:36 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 174.223.130.156 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1413 385 7078
+2016-11-06 23:58:36 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-11-06 23:58:36 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 46
+2016-11-06 23:58:36 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 62
+2016-11-06 23:58:36 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 46
+2016-11-06 23:58:37 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 46
+2016-11-06 23:58:37 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-11-06 23:58:37 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 46
+2016-11-06 23:58:37 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 46
+2016-11-06 23:58:37 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 46
+2016-11-06 23:58:37 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 174.223.130.156 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62

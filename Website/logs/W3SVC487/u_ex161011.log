@@ -1,0 +1,81 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-11 03:48:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-11 03:48:59 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1401 385 6827
+2016-10-11 03:49:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 109
+2016-10-11 03:49:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 109
+2016-10-11 03:49:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 93
+2016-10-11 03:49:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 93
+2016-10-11 03:49:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 109
+2016-10-11 03:49:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 109
+2016-10-11 03:49:00 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 109
+2016-10-11 03:49:01 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 109
+2016-10-11 03:49:01 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 93
+2016-10-11 03:49:01 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 40.134.88.230 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 109
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-11 15:12:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-11 15:12:27 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - jonathan-boyd.com 304 0 0 195 412 7641
+2016-10-11 15:12:28 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 417 93
+2016-10-11 15:12:28 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic2.jpg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 409 109
+2016-10-11 15:12:28 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic1.jpeg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 410 93
+2016-10-11 15:12:28 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic3.jpeg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 410 109
+2016-10-11 15:19:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - jonathan-boyd.com 200 0 64 0 412 9625
+2016-10-11 15:19:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - jonathan-boyd.com 200 0 0 1389 352 109
+2016-10-11 15:19:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 443 124
+2016-10-11 15:19:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic1.jpeg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 436 109
+2016-10-11 15:19:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic2.jpg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 435 93
+2016-10-11 15:19:29 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic3.jpeg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 436 93
+2016-10-11 15:20:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 200 0 0 1403 388 109
+2016-10-11 15:20:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 443 93
+2016-10-11 15:20:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic2.jpg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 435 109
+2016-10-11 15:20:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic1.jpeg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 436 109
+2016-10-11 15:20:08 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /images/animalpic3.jpeg - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 436 109
+2016-10-11 15:20:41 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 474 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-11 15:39:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-11 15:39:39 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.134.88.230 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 474 1390
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-11 18:15:22
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-11 18:15:21 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.180.192 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - jonathan-boyd.com 200 0 0 1403 385 9781
+2016-10-11 18:15:22 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 78
+2016-10-11 18:15:22 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 62
+2016-10-11 18:15:22 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 62
+2016-10-11 18:15:22 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 46
+2016-10-11 18:15:22 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62
+2016-10-11 18:15:22 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120-precomposed.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 240 62
+2016-10-11 18:15:23 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-120x120.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 228 62
+2016-10-11 18:15:23 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 232 62
+2016-10-11 18:15:23 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 220 93
+2016-10-11 18:15:23 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.180.192 HTTP/1.1 MobileSafari/602.1+CFNetwork/808.0.2+Darwin/16.0.0 - - jonathan-boyd.com 404 0 2 1329 211 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-11 21:22:18
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-11 21:22:18 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.188.161 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - jonathan-boyd.com 200 0 0 1403 305 2515
+2016-10-11 21:22:18 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.188.161 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - jonathan-boyd.com 404 0 2 1329 241 62
+2016-10-11 21:22:18 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.188.161 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - jonathan-boyd.com 404 0 2 1329 220 62
+2016-10-11 21:22:18 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.188.161 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - jonathan-boyd.com 404 0 2 1329 229 78
+2016-10-11 21:22:19 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.188.161 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - jonathan-boyd.com 404 0 2 1329 241 62
+2016-10-11 21:22:19 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.188.161 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - jonathan-boyd.com 404 0 2 1329 229 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-11 21:54:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-11 21:54:46 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 38.100.21.64 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) - - www.jonathan-boyd.com 200 0 0 2434 135 7265
+2016-10-11 21:54:46 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 38.100.21.64 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) - - www.jonathan-boyd.com 200 0 0 1898 149 109
+2016-10-11 21:56:57 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.188.161 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 474 62
+2016-10-11 21:56:57 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.188.161 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - jonathan-boyd.com 404 0 2 1329 241 46
+2016-10-11 21:56:57 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.188.161 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 404 0 2 1329 313 46
+2016-10-11 21:56:57 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.188.161 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - jonathan-boyd.com 404 0 2 1329 229 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-11 22:43:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-11 22:43:01 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.188.161 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 195 474 3906

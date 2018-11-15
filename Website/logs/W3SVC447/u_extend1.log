@@ -1,0 +1,686 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-12 18:58:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-12 18:58:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 4937
+2016-10-12 18:58:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 669 348 46
+2016-10-12 18:58:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 40698 341 218
+2016-10-12 18:58:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 45360 337 46
+2016-10-12 18:58:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 78
+2016-10-12 18:58:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 250
+2016-10-12 18:58:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 323 46
+2016-10-12 18:59:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 18:59:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 427 62
+2016-10-12 18:59:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 434 62
+2016-10-12 18:59:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 423 46
+2016-10-12 18:59:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 62
+2016-10-12 18:59:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 46
+2016-10-12 19:00:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 46
+2016-10-12 19:00:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 62
+2016-10-12 19:00:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 46
+2016-10-12 19:00:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 19:00:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 46
+2016-10-12 19:00:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 62
+2016-10-12 19:01:27 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 19:01:27 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 427 62
+2016-10-12 19:01:27 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 434 46
+2016-10-12 19:01:27 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 423 46
+2016-10-12 19:01:27 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 46
+2016-10-12 19:01:27 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 62
+2016-10-12 19:02:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 393 78
+2016-10-12 19:02:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 453 93
+2016-10-12 19:02:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 19:02:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 449 46
+2016-10-12 19:02:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 46
+2016-10-12 19:02:44 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 46
+2016-10-12 19:02:47 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 19:02:47 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 62
+2016-10-12 19:02:47 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 62
+2016-10-12 19:03:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 78
+2016-10-12 19:03:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 427 62
+2016-10-12 19:03:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 434 62
+2016-10-12 19:03:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 423 78
+2016-10-12 19:03:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 78
+2016-10-12 19:03:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 62
+2016-10-12 19:04:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 19:04:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 62
+2016-10-12 19:04:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 93
+2016-10-12 19:04:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 19:04:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 62
+2016-10-12 19:04:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 62
+2016-10-12 19:05:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 19:05:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 427 46
+2016-10-12 19:05:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 434 62
+2016-10-12 19:05:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 423 62
+2016-10-12 19:05:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 62
+2016-10-12 19:05:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 44
+2016-10-12 19:06:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 62
+2016-10-12 19:06:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 427 62
+2016-10-12 19:06:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 434 62
+2016-10-12 19:06:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 423 62
+2016-10-12 19:06:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 62
+2016-10-12 19:06:30 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 46
+2016-10-12 19:07:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 403 14 0 1423 367 62
+2016-10-12 19:07:21 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 403 14 0 1423 367 62
+2016-10-12 19:07:48 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 403 14 0 1423 367 62
+2016-10-12 19:08:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1066 367 1562
+2016-10-12 19:08:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/uxcore.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 427 46
+2016-10-12 19:08:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/customer-comp.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 434 93
+2016-10-12 19:08:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /images/404_background.jpg - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 423 62
+2016-10-12 19:08:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.woff - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 331 46
+2016-10-12 19:08:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /fonts/uxfont-2.ttf - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 404 0 2 1435 330 46
+2016-10-12 19:12:08 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2117 367 78
+2016-10-12 19:12:08 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 883 348 62
+2016-10-12 19:12:08 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 913 328 46
+2016-10-12 19:13:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2123 393 62
+2016-10-12 19:13:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1357 460 62
+2016-10-12 19:13:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 440 46
+2016-10-12 19:15:49 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://php.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2159 371 78
+2016-10-12 19:15:50 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 46
+2016-10-12 19:15:50 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 414 46
+2016-10-12 19:16:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://php.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2163 371 93
+2016-10-12 19:16:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 19:18:50 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2164 367 78
+2016-10-12 19:18:50 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 19:18:50 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 414 62
+2016-10-12 19:19:13 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2186 567 124
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-12 19:53:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-12 19:53:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 64 0 367 11766
+2016-10-12 19:53:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2182 367 2421
+2016-10-12 19:53:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 46
+2016-10-12 19:53:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 414 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-12 20:23:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-12 20:23:25 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 551 6109
+2016-10-12 20:27:28 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 393 2812
+2016-10-12 20:28:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 367 62
+2016-10-12 20:28:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 393 62
+2016-10-12 20:29:00 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 367 78
+2016-10-12 20:29:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2182 367 78
+2016-10-12 20:29:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 20:29:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 414 62
+2016-10-12 20:30:14 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 367 62
+2016-10-12 20:31:14 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2188 367 78
+2016-10-12 20:36:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2189 372 78
+2016-10-12 20:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2201 535 62
+2016-10-12 20:38:01 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2203 561 78
+2016-10-12 20:38:02 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 20:38:02 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 440 46
+2016-10-12 20:38:03 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2206 544 171
+2016-10-12 20:40:24 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2266 570 78
+2016-10-12 20:40:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 440 62
+2016-10-12 20:40:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1374 460 46
+2016-10-12 20:42:02 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2295 572 62
+2016-10-12 20:42:02 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 20:46:37 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 500 0 0 1410 598 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-12 21:03:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-12 21:03:28 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2288 381 7890
+2016-10-12 21:03:28 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 46
+2016-10-12 21:03:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 414 62
+2016-10-12 21:03:32 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2312 535 78
+2016-10-12 21:03:39 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2328 545 62
+2016-10-12 21:03:45 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2339 546 125
+2016-10-12 21:03:47 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2354 545 140
+2016-10-12 21:03:55 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2342 381 62
+2016-10-12 21:09:08 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2406 564 62
+2016-10-12 21:09:08 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 21:12:46 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 834 575 78
+2016-10-12 21:12:48 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 62
+2016-10-12 21:15:08 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2184 381 171
+2016-10-12 21:15:22 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 557 237
+2016-10-12 21:17:12 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2193 407 93
+2016-10-12 21:17:12 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 93
+2016-10-12 21:17:12 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 440 62
+2016-10-12 21:17:20 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 2205 557 124
+2016-10-12 21:18:08 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 583 78
+2016-10-12 21:18:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/Index.php test.jonathan-boyd.com 200 0 0 2205 407 78
+2016-10-12 21:18:34 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 460 46
+2016-10-12 21:18:34 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 304 0 0 195 440 46
+2016-10-12 21:18:41 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Index.php - 80 - 168.30.56.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 500 0 0 1410 554 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-13 10:16:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-13 10:16:49 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 46
+2016-10-13 10:16:50 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2205 299 1187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-14 06:52:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-14 06:52:37 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 4703
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-15 03:30:24
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-15 03:30:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - test.jonathan-boyd.com 404 0 2 1435 305 140
+2016-10-15 03:30:27 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - test.jonathan-boyd.com 200 0 0 9539 295 1390
+2016-10-15 03:30:28 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - test.jonathan-boyd.com 200 0 0 9648 295 171
+2016-10-15 03:30:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - test.jonathan-boyd.com 200 0 0 3059 316 140
+2016-10-15 03:30:30 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - test.jonathan-boyd.com 200 0 0 1121 311 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-16 18:43:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-16 18:43:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.133 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 2546
+2016-10-16 18:43:41 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2228 299 2828
+2016-10-16 18:44:22 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 66.249.79.133 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1374 344 31
+2016-10-16 18:44:23 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 913 324 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-16 21:10:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-16 21:10:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 72.76.221.220 HTTP/1.1 panscient.com - - test.jonathan-boyd.com 404 0 2 1435 171 78
+2016-10-16 21:10:14 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 72.76.221.220 HTTP/1.1 panscient.com - - test.jonathan-boyd.com 404 0 2 1435 171 62
+2016-10-16 21:10:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 72.76.221.220 HTTP/1.1 panscient.com - - test.jonathan-boyd.com 200 0 0 2229 179 593
+2016-10-16 21:10:21 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 72.76.221.220 HTTP/1.1 panscient.com - - test.jonathan-boyd.com 406 0 0 1541 195 78
+2016-10-16 21:10:25 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 72.76.221.220 HTTP/1.1 panscient.com - - test.jonathan-boyd.com 200 0 0 2229 179 93
+2016-10-16 21:10:30 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 72.76.221.220 HTTP/1.1 panscient.com - - test.jonathan-boyd.com 406 0 0 1541 195 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-17 06:52:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-17 06:52:41 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 4468
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-17 18:53:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-17 18:53:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.57.122 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - test.jonathan-boyd.com 200 0 0 2232 310 11156
+2016-10-17 18:53:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.57.122 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 246 62
+2016-10-17 18:53:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.57.122 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 225 62
+2016-10-17 18:53:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.57.122 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 234 62
+2016-10-17 18:53:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.57.122 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - test.jonathan-boyd.com 200 0 0 2232 357 62
+2016-10-17 18:53:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.57.122 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 246 46
+2016-10-17 18:53:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.57.122 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 234 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-20 06:52:43
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-20 06:52:42 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 5687
+2016-10-20 06:52:45 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2242 299 3031
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-22 20:34:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-22 20:34:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 63.141.204.137 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - test.jonathan-boyd.com 200 0 0 2263 305 7188
+2016-10-22 20:34:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 63.141.204.137 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1454 220 78
+2016-10-22 20:34:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 63.141.204.137 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1454 241 78
+2016-10-22 20:34:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 63.141.204.137 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1454 229 62
+2016-10-22 20:34:37 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 63.141.204.137 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - test.jonathan-boyd.com 200 0 0 2263 352 93
+2016-10-22 20:34:37 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 63.141.204.137 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1454 241 78
+2016-10-22 20:34:37 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 63.141.204.137 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1454 229 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-23 06:52:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-23 06:52:50 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.133 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 3875
+2016-10-23 06:52:58 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2246 299 2953
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-23 23:23:24
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-23 23:23:23 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 46
+2016-10-23 23:23:25 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 66.249.79.129 HTTP/1.1 Googlebot-Image/1.0 - - test.jonathan-boyd.com 404 0 2 1435 197 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-26 06:53:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-26 06:53:02 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 3860
+2016-10-26 06:53:05 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.133 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2247 299 2906
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-27 16:37:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-27 16:37:54 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 174.218.7.129 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_0_1+like+Mac+OS+X)+AppleWebKit/602.1.50+(KHTML,+like+Gecko)+Version/10.0+Mobile/14A403+Safari/602.1 - - test.jonathan-boyd.com 200 0 0 2257 382 3343
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-29 15:41:19
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-29 15:41:19 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.133 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 3734
+2016-10-29 15:41:44 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2258 299 3265
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-31 01:00:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-31 01:00:45 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 67.140.255.26 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - test.jonathan-boyd.com 200 0 0 2258 310 2234
+2016-10-31 01:00:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 67.140.255.26 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 225 93
+2016-10-31 01:00:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 67.140.255.26 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 246 93
+2016-10-31 01:00:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 67.140.255.26 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 234 93
+2016-10-31 01:00:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 67.140.255.26 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - test.jonathan-boyd.com 200 0 0 2261 357 109
+2016-10-31 01:00:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 67.140.255.26 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 246 93
+2016-10-31 01:00:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 67.140.255.26 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 234 78
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-10-31 11:07:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-10-31 11:07:02 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 2765
+2016-10-31 11:07:05 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2261 299 2281
+2016-10-31 11:07:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Jonathan_Boyd.js - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 913 255 46
+2016-10-31 11:07:32 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 1374 260 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-01 03:48:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-01 03:48:40 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 2906
+2016-11-01 03:48:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2271 425 3328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-01 05:56:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-01 05:56:12 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /mobile/ - 80 - 66.249.79.133 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 432 5531
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-01 15:41:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-01 15:41:49 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2273 299 5734
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-01 17:58:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-01 17:58:47 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 5984
+2016-11-01 17:59:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /mobile/ - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 432 2265
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-03 02:11:40
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-03 02:11:40 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.133 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 5672
+2016-11-03 02:11:42 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /mobile/ - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 432 1640
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-05 21:58:36
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-05 21:58:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - test.jonathan-boyd.com 404 0 2 1435 186 62
+2016-11-05 21:59:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - test.jonathan-boyd.com 200 0 0 11720 176 1046
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-08 04:07:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-08 04:07:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 54.92.172.238 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.3)+Gecko/20100401+Firefox/3.6.3+GTB6+(.NET+CLR+3.5.30729) - - test.jonathan-boyd.com 200 0 0 11829 200 7719
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-08 16:08:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-08 16:08:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.184.76.168 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - test.jonathan-boyd.com 200 0 0 2285 310 500
+2016-11-08 16:08:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.76.168 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 246 109
+2016-11-08 16:08:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 173.184.76.168 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 225 93
+2016-11-08 16:08:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.76.168 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 234 125
+2016-11-08 16:08:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.76.168 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 246 109
+2016-11-08 16:08:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.76.168 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - test.jonathan-boyd.com 404 0 2 1435 234 93
+2016-11-08 16:08:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.184.76.168 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - test.jonathan-boyd.com 200 0 0 2287 357 406
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-10 06:52:51
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-10 06:52:51 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 404 0 2 1435 232 3531
+2016-11-10 06:52:54 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.129 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - test.jonathan-boyd.com 200 0 0 2287 425 3093
+2016-11-10 06:52:56 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/Jonathan_Boyd.css - 80 - 66.249.79.183 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://test.jonathan-boyd.com/ test.jonathan-boyd.com 200 0 0 1374 344 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-13 08:52:18
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-13 08:52:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 54.196.57.103 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.3)+Gecko/20100401+Firefox/3.6.3+GTB6+(.NET+CLR+3.5.30729) - - test.jonathan-boyd.com 200 0 0 12374 200 8968
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-14 20:07:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-14 20:07:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.57.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 1172 369 2046
+2016-11-14 20:07:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 168.30.57.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 1078 345 62
+2016-11-14 20:07:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.57.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 2 1435 327 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-14 21:45:35
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-14 21:45:34 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.18 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://ajax.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 1183 460 937
+2016-11-14 21:45:35 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 168.30.56.18 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 304 0 0 195 431 109
+2016-11-14 21:46:07 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 168.30.56.18 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 304 0 0 195 431 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-16 20:28:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-16 20:28:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.189.159 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 1183 369 812
+2016-11-16 20:28:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /css/styles.css - 80 - 168.30.189.159 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 1078 345 234
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-16 23:13:03
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-16 23:13:03 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /defualt.aspx - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - csharp.jonathan-boyd.com 404 0 0 2155 345 4453
+2016-11-16 23:13:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Defualt.aspx - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - csharp.jonathan-boyd.com 404 0 0 2155 345 46
+2016-11-16 23:13:44 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Defualt.aspx - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - csharp.jonathan-boyd.com 404 0 0 2155 345 46
+2016-11-16 23:18:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Defualt.aspx - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - csharp.jonathan-boyd.com 404 0 0 2155 345 2531
+2016-11-16 23:18:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Defualt.aspx - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - csharp.jonathan-boyd.com 404 0 0 2155 345 343
+2016-11-16 23:18:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - csharp.jonathan-boyd.com 200 0 0 4158 345 4437
+2016-11-16 23:18:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZHuZZMdV1RDf0l0N8a_fYneO5jzdgOvt3N0YOoYmlndB0ir8Bj0Nb7G8Yh5NoFb6uQ2&t=636060065960000000 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 6390 454 78
+2016-11-16 23:18:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakG0bYv4NvJWc0swdmC7LcT8kfzf5HYnmLtmWslKINX7uTvmZskjCcQNWJpdAoxfAnPY0RC_S7KRf4GnwyWhaJI81&t=636060065960000000 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 7611 475 124
+2016-11-16 23:18:56 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Default.aspx - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 4414 2212 187
+2016-11-16 23:20:30 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4315 395 78
+2016-11-16 23:20:33 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4341 369 78
+2016-11-16 23:20:42 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://mysql.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4323 375 78
+2016-11-16 23:21:00 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://php.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4318 373 78
+2016-11-16 23:21:03 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4328 369 62
+2016-11-16 23:21:55 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.91 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4304 369 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-17 05:36:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.184.37.19 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - csharp.jonathan-boyd.com 200 0 0 4322 312 9375
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 173.184.37.19 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4326 381 125
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.37.19 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 78
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 173.184.37.19 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 227 109
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.37.19 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 93
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZED7mOPnwb6Sr6Uju4rqCjrC5ugrbWxKV088eQ97rJu00yXKEXci-30Q3NuED_5AXw2&t=636060065960000000 80 - 173.184.37.19 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 6390 454 125
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakLvz2BAs0bu-FZstWovihACp337tXerzgDEMe_EBjAjgOLtGQ5ZvQwiFX9n6HlnVE2QmaDapf-qHB2uRGXnBTks1&t=636060065960000000 80 - 173.184.37.19 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 7611 475 94
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.184.37.19 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - csharp.jonathan-boyd.com 200 0 0 4323 359 140
+2016-11-17 05:36:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.37.19 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 93
+2016-11-17 05:36:05 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.184.37.19 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 109
+2016-11-17 05:36:05 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.37.19 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 93
+2016-11-17 05:36:05 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.184.37.19 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-17 21:05:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-17 21:05:47 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 46
+2016-11-17 21:06:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4310 301 2328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-17 23:35:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-17 23:35:38 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - csharp.jonathan-boyd.com 404 0 2 1435 307 140
+2016-11-17 23:35:41 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - csharp.jonathan-boyd.com 200 0 0 8880 297 2281
+2016-11-17 23:35:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - csharp.jonathan-boyd.com 200 0 0 8880 297 156
+2016-11-17 23:35:44 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZHVpKAczMFnOfRcJRf6ZX-tCeepiaIne1DEUb75a1F9SUtqBMf5UvBVyJ7DU1qc6fA2&t=636060065960000000 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - csharp.jonathan-boyd.com 200 0 0 23400 418 156
+2016-11-17 23:35:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakO1M5-UcPkJzO9QTnrpAuG4SNgdSdQbmmh9SsOxK88ZWE89Jn-jlV6cZyU3EhSHeu0N6BGRqMcnureSj6y_wDMo1&t=636060065960000000 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - csharp.jonathan-boyd.com 200 0 0 27288 439 156
+2016-11-17 23:35:47 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - csharp.jonathan-boyd.com 200 0 0 8892 309 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-18 00:25:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-18 00:25:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4338 427 2296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-18 05:29:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-18 05:29:41 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZF_A-4hyv3_YM8km79gs5bZMSiGRTwnJguHbD6nWvPXkDghViqcVIMYsb2MKW7JSzQ2&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 438 6375
+2016-11-18 05:29:41 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakPnwNeE-iOSAuqbVKWrUbL8233lPa9KrHNZ0MBuUsj-7HWzHp1lj_9Ok3ljsi9fVyMc1csUTbza-gOvY0_5D4co1&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 459 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-18 21:39:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-18 21:39:40 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 46
+2016-11-18 21:39:44 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZFig6SzO805A-nqhh7StRAP5qgEfuj1EcDgf77N5L1Yw9_TFNPCLM0i43yf2BPB-tw2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 438 3062
+2016-11-18 21:39:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakKFaPZ4EG1WsGzu7DskiANW1NZX2ZQQ8c7a1I55m0-TK0v0vwqp71FsSXLEU3Fqz-anqyl81r_UfzoKsjJYPEWE1&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 459 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-20 21:06:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-20 21:06:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 31
+2016-11-20 21:06:32 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4318 301 3953
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-21 05:19:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-21 05:19:30 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4318 427 2046
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-21 05:51:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-21 05:51:00 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZAQGQCB8pfQ3sOW053YRBxg-Avkv400FRrl4yzQmt2n49xvWGkuTaNjBfYnDd-ZTyw2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 438 1593
+2016-11-21 05:51:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakNapuwvHCeR_OzHcfr3-EDIvrbZo3aq2l8U_5uVUA-sc16Zgit9AuIkrSgo4WIdckqBHAqraQrpnbaoa52HKY2I1&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 459 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-21 11:34:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-21 11:34:49 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 4812
+2016-11-21 11:34:52 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakIYR7SfsxRjXJvSf7HLPc871W1c9FISnrS5kl6sZPtjfpc8pXo2RIG2YRJRG4e2gY8ROU_jMG92WQn-nA6AXPx41&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 459 2312
+2016-11-21 11:34:52 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZPuCWPNoFg07fHn5vl6LxAxlM-gWAAkn_qPp77HBpk7gcC1rLwvgAFK3EO2td8oD8Q2&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 0 2158 438 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-22 06:13:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-22 06:13:26 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 46
+2016-11-22 06:13:28 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4331 427 2328
+2016-11-22 06:13:30 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZJrvhdu5m2Y0rTugsG7l3wxHXEHGBfDp90MjjTKeqAahEA2joQKbJsyy2jZT3mzU_g2&t=636060065960000000 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 62
+2016-11-22 06:13:31 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakOV3IlsKcLQfABc9_Z1tiplHvC4jv_WEGExmduIJwpn5kEMuKr4se-wfRH2Hf8fOBxl7QOPI7NyXXGFa1jIaH3I1&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-22 15:21:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-22 15:21:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.19 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4360 226 3937
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-23 06:41:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-23 06:41:53 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 2843
+2016-11-23 06:44:32 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4333 427 5000
+2016-11-23 06:44:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZCPm-aifoiQkCB3DWfmuzmsLOra7GZ-1-o-rVGpdx-z5hNYO4yXjMKfve_TiWClAyw2&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 62
+2016-11-23 06:44:49 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakJ4snWxfTvbMiVfUKHAfOMiD3z6sKMFXX4ZlVtKgUmFyDw3eQAd5DA0Ct-RZ29p1JwD7Q8KoXUpLoUvzmZU7OU41&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-23 21:35:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-23 21:35:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 31
+2016-11-23 21:35:47 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4338 301 3078
+2016-11-23 21:36:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZNQUjQR09bHwBEzNX4bQ7MrI7FJEb3B-c2gXL1tFpjOEziaP8uOMyJWZmEiu9xLmeA2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 46
+2016-11-23 21:36:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakOgheGnQuI9pboXwrpLULvsPcyuVUOtb_CvuiGE8mQ5lh-F_OD30lOoE56Q3Nq7vsSGsUsUMK-G47QviO-RbZYw1&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-24 02:35:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-24 02:35:57 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4361 313 7406
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-24 14:03:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-24 14:03:12 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 5297
+2016-11-24 14:03:15 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakHhlGUv7-7pWF2I7FfB8V2GHVlhMkdtZr8pgbIlTuLkraXCTiyfTqdwq9YqyS4mHXC0lGlqGiHC8dikAr7TTIz01&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 404 0 0 2158 471 2109
+2016-11-24 14:04:03 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZEPyhLty6YsrWAFzD9r7AfHG-__GgEZRNMwFJzWAXLXWnRkYoop3gbD-lSuu1HCyRw2&t=636060065960000000 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 0 2158 367 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-26 17:22:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-26 17:22:34 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 4125
+2016-11-26 17:22:37 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4346 427 2953
+2016-11-26 17:25:43 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZMJWQYBw444lm2-woiY0Vmcja5Pip8YiyT3wdBxuZDaD1xTZB9LODHcJGSDiDH0vXQ2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 93
+2016-11-26 17:25:44 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakK2FTaEdF4gtfPxhQq4FKUEfnwo4a6AjOMgvxH2UaMBsmypdQQqVlQPjVfXRYV935mZiUHymib2PO3ZnuDztVMg1&t=636060065960000000 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-26 21:02:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-26 21:02:57 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.20.25.241 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - csharp.jonathan-boyd.com 200 0 0 4310 312 3390
+2016-11-26 21:02:58 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.20.25.241 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 187
+2016-11-26 21:02:58 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 173.20.25.241 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 227 187
+2016-11-26 21:02:58 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.20.25.241 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 125
+2016-11-26 21:02:58 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 173.20.25.241 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - csharp.jonathan-boyd.com 200 0 0 4325 359 109
+2016-11-26 21:02:58 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 173.20.25.241 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 93
+2016-11-26 21:02:58 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 173.20.25.241 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-26 22:42:52
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-26 22:42:51 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.137 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4348 226 5437
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-27 00:27:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-27 00:27:55 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4330 301 8562
+2016-11-27 00:27:56 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZGmT0ZnkZeocrmmklW_mg_Lt2fPIT0Z0fSww9mv2IFsTzEyFOkOlsM0DGlFBcI97RA2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 46
+2016-11-27 00:27:59 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakPjrrPa8qsO9cwp2MG9LuvTyuUwLufqzODovNt8KgX3Pa0mLKCCSCrQO6iOQOU-_0Hjx6LSwaYBfQBI6-HVuIqM1&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-27 22:43:21
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-27 22:43:20 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 50.96.68.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - http://jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4313 384 2484
+2016-11-27 22:43:21 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZMCiNn6QsLYjN6Y_9IvuHwFQt3GwdhhuOv7naBLl2kJMi2EI4N9Q4IHVrRD3PEPUDQ2&t=636060065960000000 80 - 50.96.68.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 6390 427 125
+2016-11-27 22:43:21 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakGi5-HEVGD4aMXGCUjvoRb0HTJ2DPnzNRmr1bomHFdLyrreWrXAW0Iee7jVBm-VslbfxJa0xs8Z91vvBy2l3-4I1&t=636060065960000000 80 - 50.96.68.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 7611 448 171
+2016-11-27 22:43:21 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 50.96.68.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - - csharp.jonathan-boyd.com 404 0 2 1435 257 124
+2016-11-27 22:43:21 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 50.96.68.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - - csharp.jonathan-boyd.com 404 0 2 1435 317 93
+2016-11-27 22:43:33 W3SVC447 P3NWVPWEB174 50.62.169.12 POST /Default.aspx - 80 - 50.96.68.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 4604 2337 124
+2016-11-27 22:43:40 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 50.96.68.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - - csharp.jonathan-boyd.com 200 0 0 4510 348 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-28 08:08:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-28 08:08:08 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 46
+2016-11-28 08:08:10 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4512 427 2453
+2016-11-28 08:11:00 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZPAoMyj5zWOPDSpEsnK-DCCTFGTvvDlHeiZchXsK3wm38_HFmdP_9ncXCEEbpg1S9Q2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 46
+2016-11-28 08:11:02 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakNtsrjMjesVHIlKunVWk95tNvhdqlYK433QYTUkSYr9SUZEyEkJx16IziPX9QDI36-D_kbO3BFtRJUkFmGtNQaE1&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-28 19:14:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-28 19:14:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.57.242 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://ajax.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 4521 374 2687
+2016-11-28 19:14:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZJ0tPyd-C7CSi9_KM27iWXZdnsaD0oHLn8f0ar8hBIA8anOgxmLUk-8HGlll_Wib1w2&t=636060065960000000 80 - 168.30.57.242 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 442 375
+2016-11-28 19:14:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakAVE5TX8ekEQJQxR9MdP2orO8eNwJgwa8uJyFnqzfN-PQyO5UWIPlS-whmMNivApzu1k9XNAMMj_6NG5fu3IAIw1&t=636060065960000000 80 - 168.30.57.242 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 463 500
+2016-11-28 19:14:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 168.30.57.242 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 62
+2016-11-28 19:14:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 168.30.57.242 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 404 0 2 1435 327 62
+2016-11-28 19:14:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 168.30.57.242 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-29 21:19:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-29 21:19:12 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 180.76.15.159 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - csharp.jonathan-boyd.com 404 0 2 1454 226 5875
+2016-11-29 21:19:12 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 180.76.15.15 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - csharp.jonathan-boyd.com 404 0 2 1454 226 5890
+2016-11-29 21:20:52 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.159 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4537 226 3093
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-30 00:27:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-30 00:27:57 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 1781
+2016-11-30 00:28:01 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4502 301 2828
+2016-11-30 00:28:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakOCu-5MP1n4M0G7yYnZqA5IG4ZIjwkThZ423wZJSBlP8822tQrciNHA8iMKOEtXVmtjHk0-Tutlirio7IX9Tznk1&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 46
+2016-11-30 00:28:09 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZAyopioBIFTqxnS1vHQqLoL5t792PHdGmu9Hiw2EA-bmNDpB7d92fij21pufIPRqww2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-11-30 21:25:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-11-30 21:25:46 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 168.30.56.85 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - csharp.jonathan-boyd.com 200 0 64 0 333 7093
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-01 01:08:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-01 01:08:49 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 54.158.55.194 HTTP/1.0 Python-urllib/1.17 - - csharp.jonathan-boyd.com 404 0 2 1454 92 78
+2016-12-01 01:08:52 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 54.158.55.194 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.2 - - csharp.jonathan-boyd.com 200 0 0 4529 301 2953
+2016-12-01 01:08:52 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakPwBqjAkfeEqA2m8VN8b3IRYwVIiEtVsA6IWQx3TbvfvYEC6vxPHPSKypliTnzjSyQHDpTL3VHMxpka86OlwPF41&t=636060065960000000 80 - 54.158.55.194 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.2 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 7611 431 78
+2016-12-01 01:08:52 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZOkMto_kIPvY3IKedmYGXzGB4YYl4gsjX-ZLx-LojFTq2VUBYDi4Qtt8-u6QkEOOog2&t=636060065960000000 80 - 54.158.55.194 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.2 - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 6390 410 124
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-02 14:52:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-02 14:52:40 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.139 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4501 226 7984
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-02 19:17:25
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-02 19:17:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.25 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4542 226 8672
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-02 19:45:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-02 19:45:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.138.184.71 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - csharp.jonathan-boyd.com 200 0 0 4502 312 3890
+2016-12-02 19:45:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 40.138.184.71 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 227 406
+2016-12-02 19:45:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 40.138.184.71 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 390
+2016-12-02 19:45:17 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 40.138.184.71 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 236
+2016-12-02 19:45:18 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 40.138.184.71 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - csharp.jonathan-boyd.com 200 0 0 4500 359 372
+2016-12-02 19:45:18 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 40.138.184.71 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 125
+2016-12-02 19:45:18 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 40.138.184.71 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 437
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-03 00:28:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-03 00:28:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 5968
+2016-12-03 00:28:11 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4516 301 4859
+2016-12-03 00:28:23 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZD1VYMgz26wiQnXOl8mbNe_ZIwlJ41krVCxOxDo42bOpMyFgmzK1i95sBO9fEIwohA2&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 46
+2016-12-03 00:28:28 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakJgFU4tk5fYLtN7Izvk4__pGaAhmZPls0KgxpLIuL16AY9VBq-mBflMbCQIpE_SYbh6Lqr2YRZkCzUboZxxEbHI1&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 109
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-03 04:33:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-03 04:33:31 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4510 427 2421
+2016-12-03 04:36:13 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakL9PGOLA-6v7cDwtICURWKKZ7d_dZ51FJjkh-4DU6sV9D-gGXFmtfVomHpZSHz4R0i-Jc4nQ82B5hTHDFe9XHmI1&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 62
+2016-12-03 04:36:13 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZOU4_b9SNcyjMiXk4udxhCqsyKm4QjZNkkF14mlziwXRerRkn30VLDBLN9BUMvQfgg2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 46
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-05 22:21:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-05 22:21:30 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 69.58.178.56 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - csharp.jonathan-boyd.com 404 0 2 1435 188 78
+2016-12-05 22:21:36 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 69.58.178.56 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - csharp.jonathan-boyd.com 200 0 0 9142 190 3937
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-06 00:11:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-06 00:11:37 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 180.76.15.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - csharp.jonathan-boyd.com 404 0 2 1454 226 2890
+2016-12-06 00:11:37 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 180.76.15.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - csharp.jonathan-boyd.com 404 0 2 1454 226 2875
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-06 00:28:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-06 00:28:16 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 3921
+2016-12-06 00:28:20 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4513 301 3812
+2016-12-06 00:28:23 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakN-UJOLxHimJ5KWcxMtzuxwhfqUshRYwAOB-0Jtkn5Z5pb0v1oevoypwApsK-lFP8w8jwuDMId9QLA6T4AQ2WQg1&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 62
+2016-12-06 00:28:28 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZDL9G2z3z6V-bDWRcNON_lOYGaYmuZt1Jf28M2BRF9Xt8Vyg80GqnvmokOtlRSA3dw2&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 46
+2016-12-06 00:37:24 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.33 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4512 226 10812
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-06 20:00:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-06 20:00:09 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.25 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4551 226 5015
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-06 21:39:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-06 21:39:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 98.20.170.123 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko) - - csharp.jonathan-boyd.com 200 0 0 4500 312 3890
+2016-12-06 21:39:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 98.20.170.123 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 109
+2016-12-06 21:39:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /favicon.ico - 80 - 98.20.170.123 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 227 109
+2016-12-06 21:39:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 98.20.170.123 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 93
+2016-12-06 21:39:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 98.20.170.123 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Version/8.0+Mobile/12B410+Safari/600.1.4 - - csharp.jonathan-boyd.com 200 0 0 4521 359 140
+2016-12-06 21:39:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon-precomposed.png - 80 - 98.20.170.123 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 248 93
+2016-12-06 21:39:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /apple-touch-icon.png - 80 - 98.20.170.123 HTTP/1.1 Safari/11601.2.7.2+CFNetwork/760.1.2+Darwin/15.0.0+(x86_64) - - csharp.jonathan-boyd.com 404 0 2 1435 236 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-07 01:02:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-07 01:02:00 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 2453
+2016-12-07 01:02:13 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4519 439 2531
+2016-12-07 01:07:06 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZOBuEBaQ_1gK0tFIQ8nHNEQ-6ZJnMz6SqfPUdlXSxItTG_VQgVw5zEjBLT-qeCcnvw2&t=636060065960000000 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 6390 450 46
+2016-12-07 01:07:07 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakNlYn9LGGc9uAEcNVOG0I1l2TGsy6pfkrWmNBWRhnz9PkY_V5mUN3wYfhodPHXKrWMFV_FJkyYkrNx_iD52JkQg1&t=636060065960000000 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/Default.aspx csharp.jonathan-boyd.com 200 0 0 7611 471 62
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-07 23:12:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-07 23:12:29 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.9 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4524 226 2546
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-08 00:20:52
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-08 00:20:52 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 66.249.79.91 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 404 0 2 1435 234 5312
+2016-12-08 00:21:26 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.79.95 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - csharp.jonathan-boyd.com 200 0 0 4525 301 3593
+2016-12-08 00:21:41 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZCaf2UqwUxpyXqpmlD-NnqTUE0VgKzqSH6cSMqvnYiM0p5tkPtCZRDvJ35G6imcftw2&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 6390 438 46
+2016-12-08 00:21:42 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /WebResource.axd d=x2nkrMJGXkMELz33nwnakJwcjn_BNXgvU8a4uOzupyyZSozGrbBETIwG2MacGC9QK7JyJJOFCvOKBhl4o16LR7HF210rwpKzGFf-fHaHFu81&t=636060065960000000 80 - 66.249.79.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://csharp.jonathan-boyd.com/ csharp.jonathan-boyd.com 200 0 0 7611 459 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-08 19:20:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-08 19:20:23 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.162 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4540 226 7593
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-09 21:03:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-09 21:03:31 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 180.76.15.27 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4518 226 10265
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-10 17:40:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-10 17:40:48 W3SVC447 P3NWVPWEB174 50.62.169.12 GET / - 80 - 138.197.10.111 HTTP/1.0 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) - - csharp.jonathan-boyd.com 200 0 0 9149 369 7812
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-12-11 09:30:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-12-11 09:30:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 180.76.15.142 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - csharp.jonathan-boyd.com 404 0 2 1454 226 4828
+2016-12-11 09:30:04 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /robots.txt - 80 - 180.76.15.136 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - csharp.jonathan-boyd.com 404 0 2 1454 226 4843
+2016-12-11 09:31:42 W3SVC447 P3NWVPWEB174 50.62.169.12 GET /Default.aspx - 80 - 180.76.15.28 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - csharp.jonathan-boyd.com 200 0 0 4546 238 2671

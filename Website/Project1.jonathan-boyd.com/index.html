@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js">
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<ul>
+  <li><a href="http://jonathan-boyd.com">Home</a></li>
+  <li><a href="http://MySQL.jonathan-boyd.com">MySQL</a></li>
+  <li><a href="http://php.jonathan-boyd.com">PHP</a></li>
+  <li><a href="http://ajax.jonathan-boyd.com">AJAX</a></li>
+  <li><a href="http://csharp.jonathan-boyd.com">C Sharp</a></li>
+  <li><a href="http://api.jonathan-boyd.com">Map!</a></li>
+  <li><a href="http://webapi.jonathan-boyd.com">Web API Chart</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn active" onclick="myFunction()">Projects</a>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="http://Project1.jonathan-boyd.com">Project 1</a>
+      <a href="http://Project2.jonathan-boyd.com">Project 2</a>
+    </div>
+  </li>
+</ul>
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    for (var d = 0; d < dropdowns.length; d++) {
+      var openDropdown = dropdowns[d];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+<h1>Project 1</h1>
+<h2>Jonathan Boyd's</h2> 
+<h3>Website</h3> 
+<a href="http://www.ung.edu">Visit UNG's Website!</a> <br /><br /> 
+
+<table style="width: 100%;"> 
+  <tbody> 
+    <tr> 
+      <th>Name</th> 
+      <th>Year</th> 
+      <th>Major</th> 
+    </tr> 
+    <tr> 
+      <td align = "center">Jonathan</td> 
+      <td align = "center">Junior</td> 
+      <td align = "center">CSCI</td> 
+    </tr> 
+    <tr> 
+      <td align = "center">Bob</td> 
+      <td align = "center">Freshman</td> 
+      <td align = "center">Biology</td> 
+    </tr> 
+  </tbody> 
+</table>       
+<div class="selector">
+<br/>
+<h3 class="header">Header selector example</h3>
+  <p class="class">Paragraph selector example</p>
+  <p id="id">Paragraph selector example</p>
+</div>
+<div class="selector"><img width="140" height="120" alt="Ladybug" src="images/Ladybug.jpg" /> 
+<br/><br/>
+  <p>Here is a cool pic of a ladybug</p>
+  <p><br/></p>
+</div> 
+<ol> 
+  <li>List Test 1</li><br><br>
+  <li>List Test 2</li><br><br>
+  <li>List Test 3</li><br><br>
+</ol>
+
+<footer>Copyright © Jonathan-Boyd.com</footer>
+
+</body>
+</html>

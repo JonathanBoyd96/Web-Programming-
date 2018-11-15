@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body><h1>Header 1</h1> <h2>Header 2</h2> <h3>Header 3</h3> <a href="http://www.ung.edu">Visit UNG's Website!</a> <br /><br /> 
+<style>table, th, td {
+    border: 1px solid black;
+    border-spacing: 5px;
+}
+th, td {
+    padding: 5px;
+}
+th {
+    text-align: left;
+}
+</style> 
+<table style="width: 100%;"> 
+  <tbody> 
+    <tr> 
+      <th>Table test</th> 
+      <th>Table test</th> 
+      <th>Table test</th> 
+    </tr> 
+    <tr> 
+      <td>test</td> 
+      <td>test</td> 
+      <td>test</td> 
+    </tr> 
+    <tr> 
+      <td>test</td> 
+      <td>test</td> 
+      <td>test</td> 
+    </tr> 
+  </tbody> 
+</table> 
+<div style="color: blue;"> <br /> <br /> <h3>Paragraph header example</h3> 
+  <p>Paragraph example</p> 
+  <p><br /></p> 
+  <p>Below is a cool pic of a ladybug</p> 
+</div> <img width="120" height="120" alt="" title="a cool pic of a ladybug" style="width: 120px; height: 120px;" src="picture_library/Ladybug.jpg" /><br /> 
+<ol> 
+  <li><span style="font-size: 9pt;">List Test 1</span></li> 
+  <li>List Test 2</li> 
+  <li>List Test 3</li> 
+</ol> </body>
+</html>

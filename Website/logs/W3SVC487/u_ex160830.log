@@ -1,0 +1,58 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 06:44:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 06:44:27 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 50.62.169.12 HTTP/1.1 - - - jonathan-boyd.com 200 0 0 1337 67 4390
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 08:02:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 08:02:47 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 209.0.146.171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) - - www.jonathan-boyd.com 200 0 0 1337 135 11125
+2016-08-30 08:02:47 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /spaw/gethref.php img=http://www.ung.edu 80 - 209.0.146.171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) - - www.jonathan-boyd.com 404 0 2 1329 174 93
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 09:37:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 09:37:23 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 199.30.228.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10.5;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+GTB7.1 - - jonathan-boyd.com 200 0 64 0 408 8750
+2016-08-30 09:37:50 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 65.49.54.70 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0) - - www.JONATHAN-BOYD.com 200 0 0 1337 162 15
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 10:44:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 10:44:06 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 65.49.54.70 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0) - - www.JONATHAN-BOYD.com 200 0 0 1337 162 4609
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 12:35:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 12:35:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 23.239.208.210 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0) - - www.JONATHAN-BOYD.com 200 0 0 1337 162 7015
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 17:04:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 17:04:52 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 65.49.54.70 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0) - - www.JONATHAN-BOYD.com 200 0 0 1337 162 7328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 20:42:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 20:42:16 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 71.31.96.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - jonathan-boyd.com 200 0 0 901 352 9213
+2016-08-30 20:42:17 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /Ladybug.jpg - 80 - 71.31.96.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 200 0 0 493460 313 703
+2016-08-30 20:42:32 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /spaw/gethref.php img=http://www.ung.edu 80 - 71.31.96.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 404 0 2 1329 401 109
+2016-08-30 20:43:06 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 71.31.96.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - jonathan-boyd.com 200 0 0 883 352 93
+2016-08-30 20:43:06 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /Ladybug.jpg - 80 - 71.31.96.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 194 424 93
+2016-08-30 20:43:09 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 71.31.96.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - - jonathan-boyd.com 200 0 0 883 352 93
+2016-08-30 20:43:09 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /Ladybug.jpg - 80 - 71.31.96.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_1)+AppleWebKit/601.2.7+(KHTML,+like+Gecko)+Version/9.0.1+Safari/601.2.7 - http://jonathan-boyd.com/ jonathan-boyd.com 304 0 0 194 424 93
+2016-08-30 20:58:19 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 82.235.56.238 HTTP/1.1 - - - jonathan-boyd.com 200 0 0 883 90 8656
+2016-08-30 20:58:25 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 66.249.93.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Page+Speed+Insights)+Chrome/27.0.1453+Safari/537.36 - - jonathan-boyd.com 200 0 0 883 340 156
+2016-08-30 20:58:26 W3SVC487 P3NWVPWEB174 50.62.169.12 GET /Ladybug.jpg - 80 - 66.249.93.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Page+Speed+Insights)+Chrome/27.0.1453+Safari/537.36 - http://jonathan-boyd.com/ jonathan-boyd.com 200 0 0 493460 395 1093
+2016-08-30 20:59:02 W3SVC487 P3NWVPWEB174 50.62.169.12 HEAD / - 80 - 82.235.56.238 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.7;+rv:14.0)+Gecko/20100101+Firefox/14.0.1 - - jonathan-boyd.com 200 0 0 322 188 203
+2016-08-30 20:59:03 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 82.235.56.238 HTTP/1.0 - - - jonathan-boyd.com 200 0 0 1303 43 437
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 22:38:32
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 22:38:32 W3SVC487 P3NWVPWEB174 50.62.169.12 HEAD / - 80 - 208.91.115.10 HTTP/1.1 curl/7.19.7+(x86_64-redhat-linux-gnu)+libcurl/7.19.7+NSS/3.12.6.2+zlib/1.2.3+libidn/1.18+libssh2/1.2.2 - - jonathan-boyd.com 200 0 0 276 173 8517
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-30 22:58:24
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2016-08-30 22:58:24 W3SVC487 P3NWVPWEB174 50.62.169.12 GET / - 80 - 54.81.55.38 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.3)+Gecko/20100401+Firefox/3.6.3+GTB6+(.NET+CLR+3.5.30729) - - jonathan-boyd.com 200 0 0 1284 195 9734

@@ -1,0 +1,80 @@
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\csc.exe
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\System.Collections.Immutable.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\System.Reflection.Metadata.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\vbc.exe
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\VBCSCompiler.exe
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\VBCSCompiler.exe.config
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\WPApplication.dll.config
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\WPApplication.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\WPApplication.pdb
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\obj\Debug\WPApplication.csprojResolveAssemblyReference.cache
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\obj\Debug\WPApplication.dll
+
+c:\users\jaboyd6579\documents\visual studio 2015\Projects\WPApplication\WPApplication\obj\Debug\WPApplication.pdb
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\csc.exe
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\System.Collections.Immutable.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\System.Reflection.Metadata.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\vbc.exe
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\VBCSCompiler.exe
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\roslyn\VBCSCompiler.exe.config
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\WPApplication.dll.config
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\WPApplication.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\WPApplication.pdb
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\obj\Debug\WPApplication.csprojResolveAssemblyReference.cache
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\obj\Debug\WPApplication.dll
+
+P:\Visual Studio 2015\Projects\WPApplication\WPApplication\obj\Debug\WPApplication.pdb
+
